@@ -1,0 +1,18 @@
+# triangle.obj
+o triangle
+
+v  -0.5  -0.5  -1.0
+v  0.5  -0.5  -1.0
+v  -0  0.5  -1.0
+
+#dummy
+vt 0 1
+vt 1 1
+vt 0.5 0
+
+#dummy
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+
+f  1/1  2/1  3/1
