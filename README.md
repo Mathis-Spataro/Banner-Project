@@ -1,5 +1,7 @@
 # Rendering software - Summer 2024
 
+( Project paused due to harware failure )
+
 Currently, this software functions as an OBJ loader and an OpenGL renderer. The goal is to evolve it into a small game engine,
 incorporating the extensions detailed below. This project aims to demonstrate the range of graphics and software architecture skills
 I have developed through my academic curriculum and personal exploration.
